@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+ENV/
+env/
+*.sqlite3
+fastapi_venv
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# Test and coverage
+htmlcov/
+.coverage
+*.cover
+*.log
+
+# Pydantic cache
+__pydantic_cache__/
+
+# FastAPI static/media (if used)
+static/
+media/
