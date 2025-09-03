@@ -1,8 +1,3 @@
-# Filename: path_parameters_enum.py
-# ============================================================
-# FastAPI Tutorial - Path Parameters with Enum
-# ============================================================
-
 from enum import Enum
 from fastapi import FastAPI
 
