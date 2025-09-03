@@ -1,5 +1,3 @@
-# Filename: path_parameters_order.py
-
 from fastapi import FastAPI
 
 # Create FastAPI app instance
